@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    margin: 0 auto;
+    font-family: "Roboto", sans-serif;
+}
+
+h1, h2, a {
+    font-weight: 100;
+    color: #CCC9E7;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+a {
+    font-size: .85rem;
+    color: blue;
+}
+
+.style-link {
+    margin: 1.5em 0;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
